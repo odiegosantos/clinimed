@@ -4,17 +4,9 @@
 
 </div>
 
-<h1 align="center">Clinimed Medical clinic</h1>
+<h1 align="center">Clinimed Medical clinics</h1>
 
-<p align="center">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{odiegosantos}}/calido?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{odiegosantos}}/calido?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{odiegosantos}}/calido?color=56BEB8" /> -->
-</p>
-
+![screen](https://user-images.githubusercontent.com/87211192/171229643-efef147a-404c-467a-a726-f109ecef21c9.PNG)
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
